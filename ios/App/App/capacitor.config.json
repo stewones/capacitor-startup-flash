@@ -1,0 +1,14 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "capacitor-startup-flash",
+  "bundledWebRuntime": false,
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  },
+  "server": {
+    "url": "http://192.168.1.3:8100"
+  }
+}
